@@ -10,7 +10,7 @@
 
 <div>
     <a href="https://www.linkedin.com/in/raeeinbagheri/" style="padding-right: 30px;display:inline-block"><img src="./img/linkedin.png" alt=""  width="40"></a>
-    <a href="https://tryhackme.com/p/ryan.ba" style="padding-right: 30px;display:inline-block"><img src="./img/thm.png" alt=""  width="40"></a>
+    <a href="https://tryhackme.com/p/ryan.ba" style="padding-right: 30px;display:inline-block"><img src="./img/thm.png" alt=""  width="40" height="35"></a>
     <a href="https://raeein.github.io/"><img src="./img/website.png" alt="" width="40"></a>
 </div>
 
