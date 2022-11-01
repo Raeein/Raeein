@@ -2,8 +2,8 @@
 
 
 - 👨‍💻 iOS and MacOS developer
-- 📚 I’m currently learning everything 🤣
-- 🤝 I’m looking to collaborate with other mobile developers
+- 📚 Currently learning everything 🤣
+- 🤝 Looking to collaborate with other mobile developers
 - 🥅 2022 Goals: Learn how to exit vim without pulling the plug
 
 ### Connect with me
