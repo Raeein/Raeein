@@ -11,7 +11,7 @@
 <summary>  Tech Stack ⚡ </summary>
 <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=swift,python,c,aws,azure,firebase,javascript"/>
+            <img src="https://skillicons.dev/icons?i=swift,python,c,go,aws,azure,firebase,javascript"/>
         </a>
         <br />
         <a href="https://skillicons.dev">
@@ -23,15 +23,13 @@
 
 <details open>
 <summary>  Stats 📈 </summary>
-<p align="center">
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=Raeein&count_private=true&show_icons=true&theme=algolia&hide=issues">
-        <br />
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Raeein&show_icons=true&count_private=true&theme=algolia">
-        <br />
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raeein&show_icons=true&count_private=true&hide_border=true&title_color=26A269&icon_color=26A269&text_color=c9d1d9&bg_color=0d1117" alt="Raeein github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raeein&layout=compact&hide_border=true&&hide=python&title_color=26A269&text_color=ff91a4&bg_color=0d1117" />
+</div>
 </details>
+
+
 
 <!-- 
 ### Connect with me
