@@ -1,21 +1,21 @@
 # Hi there, I'm Raeein 👋 
 
 
-- 👨‍💻 iOS and MacOS developer
+- 👨‍💻 Computer Science student
 - 📚 Currently learning everything 🤣
-- 🤝 Looking to collaborate with other mobile developers
-- 🥅 2022 Goals: Learn how to exit vim without pulling the plug
+- 🤝 Looking to collaborate with other Software Developers
+- 🥅 2023 Goals: Learn how to exit vim without pulling the plug
 
 
 <details open>
 <summary>  Tech Stack ⚡ </summary>
 <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=swift,python,c,go,aws,azure,firebase,javascript"/>
+            <img src="https://skillicons.dev/icons?i=swift,python,c,go,java,javascript,bash,aws,azure"/>
         </a>
         <br />
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=flask,postgres,git,docker,linux,bash"/>
+            <img src="https://skillicons.dev/icons?i=firebase,mongodb,flask,postgres,git,docker,linux"/>
         </a>
     </p>
 </details>
